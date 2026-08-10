@@ -1,10 +1,10 @@
 
-# Banco Aspili Getas
+# Simulador de banco
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 
 ## 📖 Descrição
-O **Banco Aspili Getas** é uma simulação de sistema bancário, com funcionalidades para clientes e gerentes. Ele foi criado como atividade da matéria de Programação Orientada a Objetos com o intuito de criar um cenário que demande o desenvolvimento de uma solução computacional
+O **simulador de banco** é uma simulação de sistema bancário, com funcionalidades para clientes e gerentes. Ele foi criado como atividade da matéria de Programação Orientada a Objetos com o intuito de criar um cenário que demande o desenvolvimento de uma solução computacional
 envolvendo os pilares da orientação a objetos. O sistema permite:
 - Clientes podem consultar saldo, realizar saques, depósitos e visualizar extratos.
 - Gerentes podem adicionar, remover e consultar contas de clientes.
